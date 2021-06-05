@@ -1,0 +1,19 @@
+{
+  "name": "ghwrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/944patryk77/BARD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/944patryk77/BARD/issues"
+  },
+  "homepage": "https://github.com/944patryk77/BARD#readme"
+}
